@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.9.34714.143
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ABFLJob", "ABFLJob\ABFLJob.csproj", "{4C984E06-A5AA-4F28-8FB0-728DE103EF42}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{4C984E06-A5AA-4F28-8FB0-728DE103EF42}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4C984E06-A5AA-4F28-8FB0-728DE103EF42}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4C984E06-A5AA-4F28-8FB0-728DE103EF42}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4C984E06-A5AA-4F28-8FB0-728DE103EF42}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {07AC1E38-ADAF-4CE4-B9FA-E1456E0D55FC}
+	EndGlobalSection
+EndGlobal
